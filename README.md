@@ -13,7 +13,6 @@ The following updates have been made since the first release:
 #
 
 
-
 Step-by-step guide:
 The below step-by-step protocol applies to negative mode data, but analogously to the analysis of positive mode data, except for noted differences.
 1)	Comprehensive and demo transition lists are included in the testing folder in this repository. For demonstration, testing and getting used to the workflow, load the file Skyline_TL_USP_neg_template_DEMO into Skyline. For comprehensive analysis, use the file Skyline_TL_USP_neg_template. Alternatively, generate Skyline transition list using the script ‘SKYLITE_1_TL_CP.py’ and/or LipidCreator and add the internal standard transitions for the deuterated Ultimate SPLASH lipid standard from the file Skyline_TL_USP_neg_template_DEMO. 
