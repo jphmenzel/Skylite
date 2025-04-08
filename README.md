@@ -25,7 +25,7 @@ The below step-by-step protocol applies to negative mode data, but analogously t
 7)	Run script ‘SKYLITE_4_quantification_FA_isomers_neg.py’ and ‘SKYLITE_6_quantification_ FA_isomers_pos.py’ using the previous reports as input files, respectively.
 8)	Calculate statistics as relevant and use NIST 1950 SRM as retention time reference to assign lipid isomers. For further confidence in the assignment, perform a hydrolysis and subsequent AMPP derivatization with a sample of interest and NIST 1950 SRM to compare retention times.
 9)	Follow instructions in section 2.9 to determine reconstructed fatty acid profiles from triglyceride tandem MS data as well as the above sum composition analysis of triglycerides. Note: Testing any part of this triglyceride data-processing part of the workflow requires raw data, as chromatogram files need to be generated from Skyline automatically, which are too large to be added to git-hub. Raw data from this study is available upon reasonable request to the corresponding author of this study.
-10)	Ambiguous double bond identifications can be verified by epoxidation with DMDO and analysis with Skyline and the EpoxFAD (epoxidation-based fatty acid detection) workflow and associated python programs introduced herein.
+10)	Ambiguous double bond identifications can be verified by epoxidation with DMDO and analysis with Skyline and the epoxidation-based fatty acid detection workflow and associated python programs introduced herein.
 
 
 
